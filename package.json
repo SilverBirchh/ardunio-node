@@ -1,0 +1,20 @@
+{
+  "name": "ardunio-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hapi": "^17.5.3",
+    "nano": "^7.0.0",
+    "serialport": "^6.2.2",
+    "thingspeakclient": "^0.4.0",
+    "websocket": "^1.0.26",
+    "ws": "^6.0.0"
+  }
+}
